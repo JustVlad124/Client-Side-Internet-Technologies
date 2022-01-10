@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    margin: 0, auto;
+   }
+#HeadFoot {
+    background: #8fa09b;
+    font-size: 24pt;
+    font-weight: bold; 
+    color: #edeed5;
+    padding: 15px;
+}
+h2 {
+    font-size: 110%;
+    color: #752641;
+    margin-bottom: 0;
+}
+section {
+    display: inline-flex;
+}
+.content {
+    width: 75%;
+    min-width: 500px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #183533;
+    background: aqua;
+}
+.menu {
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 90%;
+    background: aqua;
+    border: 1px solid #183533;
+}
+#solution {
+    width: 87%;
+    background-color: yellow;
+    align-content: center;
+    margin: 10px;
+    border: 1px solid #183533;
+    padding: 50px;
+}
+#result {
+    font-family: "Times new roman";
+    font-size: 18px;
+}
