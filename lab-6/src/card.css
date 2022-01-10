@@ -1,0 +1,31 @@
+.simple {
+    width: 600px;
+    height: 300px;
+    background-color: red;
+    display: flex;
+    margin: 10px;
+    border-radius: 5px;
+}
+.simple-img {
+    margin: 10px;
+}
+.simple-img > img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+.card-info {
+    align-items: center;
+    margin: 0 20px;
+}
+.main-card {
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+} 
+button {
+    margin: 5px;
+
+}
