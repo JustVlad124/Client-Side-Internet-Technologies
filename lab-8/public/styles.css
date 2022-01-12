@@ -1,0 +1,56 @@
+body {
+    background: #5c81cc;
+    margin: 0;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    display: flex;
+  }
+  
+  .Wrapper {
+    flex: 1;
+    justify-content: center;
+  }
+  
+  .best_friends {
+    border-left: 1px solid black;
+    flex: 1;
+  }
+  
+  .friends {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .users {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
+  .card {
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .user_avatar {
+    margin: 10px auto;
+  }
+  
+  .user_avatar img {
+    border-radius: 50%;
+    border: 1px solid rgb(204, 204, 204);
+  }
+  
+  .card-title {
+    text-align: center;
+  }
